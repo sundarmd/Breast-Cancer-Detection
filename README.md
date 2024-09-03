@@ -38,7 +38,7 @@ To run this project, you need to have Python 3.x installed. Follow the steps bel
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Breast-Cancer-Detection.git
+    git clone https://github.com/sundarmd/Breast-Cancer-Detection.git
     cd Breast-Cancer-Detection
     ```
 
